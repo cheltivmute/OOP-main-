@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 q09
 
+=======
+TUT IZMENENO
+qweqweqwe
+>>>>>>> 5e39b4e5e0b94d1443ca9b655061f03b34522e27
